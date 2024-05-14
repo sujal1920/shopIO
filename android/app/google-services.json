@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804638924361",
+    "project_id": "flutter-shoppio-app",
+    "storage_bucket": "flutter-shoppio-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804638924361:android:555460a01b796f07fea998",
+        "android_client_info": {
+          "package_name": "com.example.shoppio_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804638924361-gt5hlnc22ttvriht286e8kqoqut3pdnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyYUmGh1gotCkh3BMnMBYwaQKm4iDhglE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804638924361-gt5hlnc22ttvriht286e8kqoqut3pdnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
